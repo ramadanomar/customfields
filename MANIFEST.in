@@ -1,0 +1,2 @@
+recursive-include customfields/patches *
+recursive-include customfields/templates *
